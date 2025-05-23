@@ -42,10 +42,10 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## 🛡️ Privacy & Security
+## Privacy
 
 All interactions are processed locally. Dr. House does not send any data to external servers or APIs unless explicitly configured to do so.
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License. See `LICENSE` for more information.
