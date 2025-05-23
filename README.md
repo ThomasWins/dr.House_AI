@@ -19,8 +19,8 @@ Make sure you have the following installed:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/ThomasWins/dr-house-ai.git
-cd dr-house-ai
+git clone https://github.com/ThomasWins/dr.house_ai.git
+cd dr.house_ai
 ```
 
 2. Set up and activate your virtual environment:
