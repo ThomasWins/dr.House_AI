@@ -45,7 +45,3 @@ python main.py
 ## Privacy
 
 All interactions are processed locally. Dr. House does not send any data to external servers or APIs unless explicitly configured to do so.
-
-## License
-
-This project is licensed under the MIT License. See `LICENSE` for more information.
